@@ -28,7 +28,8 @@ qui découvre un ancien artefact magique.
 
 ### Résultat obtenu
 
-![LangGraph Studio](capture_langgraph.png)
+<img width="772" height="496" alt="capture_langgraph" src="https://github.com/user-attachments/assets/884dab9f-c32c-4f58-9e62-95a3689f182c" />
+
 
 ---
 
